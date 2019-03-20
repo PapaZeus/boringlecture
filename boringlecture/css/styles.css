@@ -1,0 +1,25 @@
+h2.intro {
+  color: darkred;
+  font-size: 20px;
+  font-style: italic;
+}
+
+p.intro {
+  color: darkred;
+  font-size: 15px;
+}
+
+img.intro {
+  border: 10px dotted green;
+}
+
+h1 {
+  color: darkred;
+}
+
+body {
+  text-align: center;
+  background-color: gold;
+  margin-left: 45px;
+  margin-right: 45px;
+}
