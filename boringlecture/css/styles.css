@@ -1,12 +1,7 @@
-h2.intro {
+.intro {
   color: darkred;
   font-size: 20px;
   font-style: italic;
-}
-
-p.intro {
-  color: darkred;
-  font-size: 15px;
 }
 
 img.intro {
